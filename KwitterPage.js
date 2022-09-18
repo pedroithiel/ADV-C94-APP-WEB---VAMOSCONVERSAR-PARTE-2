@@ -1,6 +1,7 @@
 const firebaseConfig = {
     apiKey: "AIzaSyCrU3VitLYiwPRSZeFtpifmgMDK-c81fn0",
     authDomain: "vamosconversar-parte-2.firebaseapp.com",
+    databaseURL: "https://vamosconversar-parte-2-default-rtdb.firebaseio.com",
     projectId: "vamosconversar-parte-2",
     storageBucket: "vamosconversar-parte-2.appspot.com",
     messagingSenderId: "320268556544",

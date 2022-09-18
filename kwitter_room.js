@@ -15,6 +15,7 @@ firebase.initializeApp(firebaseConfig);
 userName = localStorage.getItem("nome");
 
 document.getElementById("name").innerHTML = "Bem-vindo(a) " + userName + "!";
+
 function Sala() {
 
    var Name =  elemento("addSala").value;
